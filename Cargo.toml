@@ -1,5 +1,5 @@
 [package]
-name = "openapi"
+name = "twilio-openapi"
 version = "1.51.0"
 authors = ["support@twilio.com"]
 description = "This is the public Twilio REST API."
